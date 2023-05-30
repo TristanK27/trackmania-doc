@@ -32,9 +32,10 @@ jobs:
                   pip install -r "${REQUIREMENTS}"
               fi
               export CONFIG_FILE="${GITHUB_WORKSPACE}/mkdocs.yml"
-              REMOTE_REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+              echo "remote_repo=$(REMOTE_REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git)"
               git config --global user.name "${GITHUB_ACTOR}"
               git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
               git remote rm origin
               git remote add origin "${REMOTE_REPO}"
               ~/.local/bin/mkdocs gh-deploy --config-file "${CONFIG_FILE}" --force
+      
