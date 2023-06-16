@@ -9,5 +9,3 @@ TODO: Create this section and/or move it somewhere else.
 
 # Credits
 * [Trackmania 2020](https://www.trackmania.com/) for being an awesome game.
-* [Trackmania 2020 Community Discord](https://discord.gg/trackmania) for being an awesome community.
-* [Trackmania 2020 Community Wiki](https://trackmaniawiki.org/Main_Page) for being an awesome wiki.
