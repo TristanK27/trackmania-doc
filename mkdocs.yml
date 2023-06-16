@@ -131,9 +131,18 @@ nav:
     - Auth: web/web-services/auth.md
   - Mechanics:
     - Home: Mechanics/index.md
-    - Ice: Mechanics/tricks-per-surface-type/ice.md
-    - Plastic: Mechanics/tricks-per-surface-type/plastic.md
-    - Grass: Mechanics/tricks-per-surface-type/grass.md
-    - Dirt: Mechanics/tricks-per-surface-type/dirt.md
-    - Road: Mechanics/tricks-per-surface-type/road.md
-    - Magnet: Mechanics/tricks-per-surface-type/magnet.md
+    - General:
+      - What is this section?: Mechanics/general/general.md
+      - Tricks:
+        - Air control: Mechanics/general/tricks-general/air-control.md
+        - Smooth Steer: Mechanics/general/tricks-general/smooth-steer.md
+        - No slide: Mechanics/general/tricks-general/no-slide.md
+      - Effects:
+        - Placeholder: Mechanics/general/effects-general/placeholder.md
+    - Tricks:
+      - Ice: Mechanics/tricks-per-surface-type/ice.md
+      - Plastic: Mechanics/tricks-per-surface-type/plastic.md
+      - Grass: Mechanics/tricks-per-surface-type/grass.md
+      - Dirt: Mechanics/tricks-per-surface-type/dirt.md
+      - Road: Mechanics/tricks-per-surface-type/road.md
+      - Magnet: Mechanics/tricks-per-surface-type/magnet.md
