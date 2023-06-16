@@ -129,3 +129,11 @@ nav:
   - Web: 
     - Web Services: web/web-services/index.md
     - Auth: web/web-services/auth.md
+  - Mechanics:
+    - Home: Mechanics/index.md
+    - Ice: Mechanics/tricks-per-surface-type/ice.md
+    - Plastic: Mechanics/tricks-per-surface-type/plastic.md
+    - Grass: Mechanics/tricks-per-surface-type/grass.md
+    - Dirt: Mechanics/tricks-per-surface-type/dirt.md
+    - Road: Mechanics/tricks-per-surface-type/road.md
+    - Magnet: Mechanics/tricks-per-surface-type/magnet.md
