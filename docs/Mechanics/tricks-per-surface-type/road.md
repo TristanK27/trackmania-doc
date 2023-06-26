@@ -14,4 +14,10 @@ Drifts are a way to take corners faster than you would normally be able to. The 
 * Hug the inner side of the corner.
 
 ## Intermediate
+### Speed Drift
+TODO: Add speed drift content
+Below is an illustration about how much angle you need to hold at different speeds on road. \[[2](../../credits#2-imgur-trackmania-2020-sd-skid-width-imgur-httpsimgurcomgallery3rtxja0-accessed-jun-26-2023)\]
+
+![Speed Drift angles for road](https://i.imgur.com/O5t7IUD.png)
+NOTE: The angles in the image above are only a rough estimate and speedslides on road only really start at 420 speed instead of 400.
 ## Advanced
